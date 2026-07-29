@@ -7,8 +7,8 @@ body{
 .header{
     background-color: #1F2937;
     height: 475px;
-    padding-right:150px;
-    padding-left: 150px;
+    padding-right:200px;
+    padding-left: 200px;
     padding-top: 0px;
     color: #E5E7EB;
     font-size: 18px;
@@ -42,8 +42,8 @@ ul{
 .header-2{
     display: flex;
     align-items: center;
+    justify-content: space-between;
     padding-top: 70px;
-    gap: 40px;
 }
 
 button {
@@ -58,7 +58,7 @@ button {
 .image{
     background: #70767C ;
     height: 200px;
-    width: 950px;
+    width: 550px;
     display: flex;
     align-items: center;
     justify-content: center;
