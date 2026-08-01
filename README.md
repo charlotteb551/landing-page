@@ -1,3 +1,4 @@
 # landing-page
-Odin Project 2
+This is the second project from The Odin Project.
+
 A simple landing page created using HTML, CSS and Flexbox
